@@ -1,0 +1,58 @@
+#hydro {
+    background-color: orange;
+}
+
+#last {
+    background-color: #ccc;
+}
+
+#first-col {
+    background-color: #bb34b6;
+}
+
+#sec-col {
+    background-color: #92c3e9;
+}
+
+#radio-active {
+    background-color: #f5f2f2;
+}
+
+#mid {
+    background-color: #e9cb28;
+}
+
+#B-si-ge {
+    background-color: #c97a25;
+}
+
+#lightGreen {
+    background-color: #7deb81;
+}
+
+#snow {
+    background-color: snow;
+}
+
+#sec-last {
+    background-color: #f8ea84;
+}
+
+#sec-last-col {
+    background-color: #e2bf9a;
+}
+
+.header {
+    width: 510px;
+    height: 60px;
+    background-color: yellow;
+    margin-top: 90px;
+}
+
+h1 {
+    padding-top: 10px;
+}
+
+table {
+    text-align: center;
+}
